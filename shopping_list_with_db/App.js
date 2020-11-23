@@ -83,7 +83,7 @@ export default function App() {
         <FlatList
           keyExtractor={item => item.id.toString()}
           renderItem={({ item }) => <View style={styles.listcontainer}><Text style={{ fontSize: 18 }}>{item.product}, {item.amount}</Text>
-          <Text style={{ fontSize: 18, color: '#0000ff' }} onPress={() => deleteItem(item.id)}> Done</Text></View>}
+          <Text style={{ fontSize: 18, color: '#0000ff' }} onPress={() => deleteItem(item.id)}> bought</Text></View>}
           data={data}
           ItemSeparatorComponent={listSeparator} 
         />
