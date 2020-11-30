@@ -15,4 +15,5 @@ Mobiiliohjelmointi (syksy 2020), harjoitustehtävät
 - Tehtävä 13: [Shopping list with polished UI](/shopping_list_with_polished_UI/App.js)
 - Tehtävä 14: [My places App](/my_places_app/App.js)
 - Tehtävä 15: [Contacts](/contacts/App.js)
+- Tehtävä 16: [Text to speech](/text_to_speech/App.js)
 
